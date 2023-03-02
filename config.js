@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
+    titleWeb: "EMERGENCY",
     introTitle: 'Hi baby >,<',
     introDesc: `Im sorry for making you mad :<
     Im sorry for yelling at you 
@@ -15,5 +15,4 @@ const CONFIG = {
     mess: 'YAYYYY🥰.',
     messDesc: 'LOVE YOU',
     btnAccept: 'MWAH',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
