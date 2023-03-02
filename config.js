@@ -1,10 +1,10 @@
 const CONFIG = {
     titleWeb: "EMERGENCY",
-    introTitle: 'Hi baby >,<',
-    introDesc: `Im sorry for making you mad :<
+    introTitle: 'Hi baby ><',
+    introDesc: ` Im sorry for making you mad :<
     Im sorry for yelling at you 
     `,
-    btnIntro: 'CLICK HERE,
+    btnIntro: 'CLICK HERE,'
     title: 'I LOVE U SO MUCH🥰',
     desc: 'FORGIVE ME> :< 🥺️ 💓 ',
     btnYes: 'YAY 🥳️',
