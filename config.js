@@ -15,4 +15,5 @@ const CONFIG = {
     mess: 'YAYYYY🥰.',
     messDesc: 'LOVE YOU',
     btnAccept: 'MWAH',
+     messLink: 'https://github.com/zoeyy1720/Confess-Crush'
 }
