@@ -14,6 +14,7 @@ const CONFIG = {
     btnReply: 'SUBMIT',
     reply: 'NO',
     mess: 'YAYYYY🥰.',
-    messDesc: 'LOVE YOU',
-    btnAccept: 'MWAH',
+    messDesc: 'BOBS BURGERS AND CHILL TN?',
+    btnAccept: 'YURDDDDD',
+    messLink : ' https://www.hulu.com/series/bobs-burgers-fdeb1018-4472-442f-ba94-fb087cdea06 '
 }
